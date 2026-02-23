@@ -1,6 +1,6 @@
 
 <h1><img src='https://cdn3.emoji.gg/emojis/cooldoge.gif' width='40px'/> Hi, there!</h1>
-<p>I'm Bernardo, Frontend engineer with Backend sprinkles ✨ from 🇧🇷 Brazil, currently living in 🇩🇪 Germany.</p>
+<p>I'm Bernardo, Frontend engineer with Backend sprinkles ✨ Back to from 🇧🇷 Brazil, previously living in 🇩🇪 Germany.</p>
 
 <h3>Tools in my stack</h3>
 <p>
